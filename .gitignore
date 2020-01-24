@@ -1,51 +1,55 @@
+### Start of Circuit ignore ###
+
 # Ignore list for Eagle, a PCB layout tool
 
 # Backup files
-*.s#?
-*.b#?
-*.l#?
-*.b$?
-*.s$?
-*.l$?
+SLock_Circuit/**/*.s#?
+SLock_Circuit/**/*.b#?
+SLock_Circuit/**/*.l#?
+SLock_Circuit/**/*.b$?
+SLock_Circuit/**/*.s$?
+SLock_Circuit/**/*.l$?
 
 # Eagle project file
 # It contains a serial number and references to the file structure
 # on your computer.
 # comment the following line if you want to have your project file included.
-eagle.epf
+SLock_Circuit/**/**/eagle.epf
 
 # Autorouter files
-*.pro
-*.job
+SLock_Circuit/**/*.pro
+SLock_Circuit/**/*.job
 
 # CAM files
-*.$$$
-*.cmp
-*.ly2
-*.l15
-*.sol
-*.plc
-*.stc
-*.sts
-*.crc
-*.crs
+SLock_Circuit/**/*.$$$
+SLock_Circuit/**/*.cmp
+SLock_Circuit/**/*.ly2
+SLock_Circuit/**/*.l15
+SLock_Circuit/**/*.sol
+SLock_Circuit/**/*.plc
+SLock_Circuit/**/*.stc
+SLock_Circuit/**/*.sts
+SLock_Circuit/**/*.crc
+SLock_Circuit/**/*.crs
 
-*.dri
-*.drl
-*.gpi
-*.pls
-*.ger
-*.xln
+SLock_Circuit/**/*.dri
+SLock_Circuit/**/*.drl
+SLock_Circuit/**/*.gpi
+SLock_Circuit/**/*.pls
+SLock_Circuit/**/*.ger
+SLock_Circuit/**/*.xln
 
-*.drd
-*.drd.*
+SLock_Circuit/**/*.drd
+SLock_Circuit/**/*.drd
 
-*.s#*
-*.b#*
+SLock_Circuit/**/*.s#
+SLock_Circuit/**/*.b#
 
-*.info
+SLock_Circuit/**/*.info
 
-*.eps
+SLock_Circuit/**/*.eps
 
 # file locks introduced since 7.x
-*.lck
+SLock_Circuit/**/*.lck
+
+### End of Circuit ignore ###
