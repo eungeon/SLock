@@ -1,3 +1,6 @@
+# Mac ignore
+.DS_Store
+
 ### Start of Circuit ignore ###
 
 # Ignore list for Eagle, a PCB layout tool
