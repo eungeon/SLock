@@ -19,7 +19,7 @@ GSM Festival이 끝난 후, 좀 더 하드웨어를 높은 퀄리티로 만들�
    
 ***
 ## 2. PCB Work
-PCB 설계는 Autodesk사의 Eagle CAD를 사용하였으며, 아직 초짜이기에 개선해야 할 부분이 많다.
+PCB 설계는 Autodesk사의 Eagle CAD를 사용하였으며, 아직 초보이기에 개선해야 할 부분이 많다.
 ### 2.1. Library
 PCB 설계에 필요한 추가적인 User Library 를 사용하였으며, 본 저장소에 업로드되어 있다.
 ```
